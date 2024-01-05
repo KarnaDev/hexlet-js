@@ -12,5 +12,8 @@
     "url": "https://github.com/KarnaDev/hexlet-js.git"
   },
   "author": "Polina Karna",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
